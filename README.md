@@ -41,11 +41,11 @@ port 80 is open
 
 Scan complete!
 
-⚠️ Disclaimer:
+##⚠️ Disclaimer:
 This tool is for educational purpose only.
 Do not scan networks without permission.
 
-Author:
+##Author:
 Aishwarya Kognure
         
 
