@@ -37,6 +37,7 @@ Step 4: Enter target IP or domain
 
 ## Example Output 
 port 22 is open
+
 port 80 is open  
 
 Scan complete!
