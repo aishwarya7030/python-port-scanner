@@ -41,12 +41,14 @@ port 80 is open
 
 Scan complete!
 
-##⚠️ Disclaimer:
-This tool is for educational purpose only.
+## ⚠️ Disclaimer
+This tool is for educational purposes only.  
 Do not scan networks without permission.
 
-##Author:
-Aishwarya Kognure
+---
+
+## 👩‍💻 Author
+*Aishwarya Kognure*
         
 
 
