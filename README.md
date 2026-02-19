@@ -25,21 +25,30 @@ This tool detects open ports on a target system and helps understand network exp
 
 ## ▶️ How to Run :
 
-### Step 1: Open Terminal
+Step 1: Open Terminal
 
--Navigate to folder
--cd python-port-scanner
--python3 port_scanner.py
--Enter target IP or domain:
--scanme.nmap.org
--Scanning target: scanme.nmap.org
+Step 2: Navigate to project folder  with 
+        cd python-port-scanner
+        
+Step 3: Run the program
+        Python3 port_scanner.py
 
--Port 22 is OPEN
--Port 80 is OPEN
+Step 4: Enter target IP or domain
 
--Scan Complete! 
+## Example Output 
+port 22 is open
+port 80 is open  
+
+Scan complete!
+
+⚠️ Disclaimer:
+This tool is for educational purpose only.
+Do not scan networks without permission.
 
 Author:
-Aishwarya kognure
+Aishwarya Kognure
+        
+
+
 
 
